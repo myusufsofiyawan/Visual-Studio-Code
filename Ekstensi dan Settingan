@@ -1,13 +1,32 @@
-formulahendry.auto-rename-tag
-hookyqr.beautify
-coenraads.bracket-pair-colorizer
-pranaygp.vscode-css-peek
-editorconfig.editorconfig
-ms-vscode.go
-oderwat.indent-rainbow
-zignd.html-css-class-completion
-ritwickdey.liveserver
-zhuangtongfa.material-theme
-techer.open-in-browser
-felixfbecker.php-intellisense
-vscode-icons-team.vscode-icons
+====== EKSTENSI ===== 
+live preview
+PHP Intelephense
+Auto rename tag
+Beauty
+Bracket Pair Colorizer
+One Dark Pro
+
+
+===== SETTINGAN JSON =====
+{
+    "editor.tabSize": 2, 
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "One Dark Pro", 
+    "terminal.integrated.profiles.windows": {
+      "Bash": {
+          "path": "D:\\GIT INSTALLER\\Git\\bin\\bash.exe", 
+          "args": ["-l"]
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "Bash",
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+
+}
+
+
+
